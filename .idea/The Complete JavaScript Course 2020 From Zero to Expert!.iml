@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/01 Welcome, Welcome, Welcome!/003 course-material-v2.0" />
+      <excludeFolder url="file://$MODULE_DIR$/01 Welcome, Welcome, Welcome!/complete-javascript-course-master" />
+      <excludeFolder url="file://$MODULE_DIR$/02 JavaScript Fundamentals – Part 1/01-Fundamentals-Part-1/final" />
+      <excludeFolder url="file://$MODULE_DIR$/03 JavaScript Fundamentals – Part 2/02-Fundamentals-Part-2/final" />
+      <excludeFolder url="file://$MODULE_DIR$/06 [OPTIONAL] HTML &amp; CSS Crash Course" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
