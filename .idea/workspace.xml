@@ -2,16 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5283680b-5bf0-4a08-aaca-9815d83fee81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/02-Fundamentals-Part-2/starter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/02-Fundamentals-Part-2/starter/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/Assignments.js" beforeDir="false" afterPath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/Assignments.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,6 +43,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Education\Courses\Web Specialization\The Complete JavaScript Course 2020 From Zero to Expert!\03 JavaScript Fundamentals – Part 2\" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1625938828437</updated>
       <workItem from="1625938835115" duration="5046000" />
-      <workItem from="1626022800735" duration="1733000" />
+      <workItem from="1626022800735" duration="3167000" />
     </task>
     <task id="LOCAL-00001" summary="add folders , for first 3 part of course">
       <created>1625946570119</created>
@@ -63,7 +73,21 @@
       <option name="project" value="LOCAL" />
       <updated>1626023116853</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="refactor and move file">
+      <created>1626025804339</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1626025804339</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add assignment file to solve lecture assignments">
+      <created>1626025844548</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626025844548</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,6 +97,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add folders , for first 3 part of course" />
     <MESSAGE value="code lecture 032 Activating Strict Mode" />
-    <option name="LAST_COMMIT_MESSAGE" value="code lecture 032 Activating Strict Mode" />
+    <MESSAGE value="refactor and move file" />
+    <MESSAGE value="add assignment file to solve lecture assignments" />
+    <option name="LAST_COMMIT_MESSAGE" value="add assignment file to solve lecture assignments" />
   </component>
 </project>
