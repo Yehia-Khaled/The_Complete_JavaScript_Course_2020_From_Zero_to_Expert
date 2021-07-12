@@ -56,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1625938828437</updated>
       <workItem from="1625938835115" duration="5046000" />
-      <workItem from="1626022800735" duration="8360000" />
+      <workItem from="1626022800735" duration="9898000" />
     </task>
     <task id="LOCAL-00001" summary="add folders , for first 3 part of course">
       <created>1625946570119</created>
@@ -107,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626104713641</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="lecture 035 Arrow Functions code">
+      <created>1626105771622</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1626105771622</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +129,7 @@
     <MESSAGE value="solve function assignment" />
     <MESSAGE value="lecture 033 Functions code" />
     <MESSAGE value="lecture 034 Function Declarations vs. Expressions code" />
-    <option name="LAST_COMMIT_MESSAGE" value="lecture 034 Function Declarations vs. Expressions code" />
+    <MESSAGE value="lecture 035 Arrow Functions code" />
+    <option name="LAST_COMMIT_MESSAGE" value="lecture 035 Arrow Functions code" />
   </component>
 </project>

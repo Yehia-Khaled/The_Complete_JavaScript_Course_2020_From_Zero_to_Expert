@@ -54,6 +54,7 @@ function declarations : we can actually call function declarations before they a
 // - every thing store in variables
 */
 
+/*
 // 035 Arrow Functions
 // special form of function expression that is shorter and therefore faster to write
 
@@ -68,3 +69,18 @@ const age3=calcAge3(1999)
 console.log(age3)
 
 //for now wa actually keep using mainly the normal functions , except for one -linear functions.
+*/
+
+//036 Functions Calling Other Functions
+function cutFruitPieces(fruit){
+    return fruit*4;
+}
+
+function fruitProcessor(apples, oranges) {
+    const applePieces=cutFruitPieces(apples);
+    const orangePieces=cutFruitPieces(oranges);
+
+    const juice = `Juice with ${applePieces} pieces of apples and ${orangePieces} pieces of oranges.`;
+    return juice;
+}
+console.log(fruitProcessor(2,3))
