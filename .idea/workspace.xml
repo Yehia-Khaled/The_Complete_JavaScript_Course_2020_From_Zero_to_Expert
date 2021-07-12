@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5283680b-5bf0-4a08-aaca-9815d83fee81" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1625938828437</updated>
       <workItem from="1625938835115" duration="5046000" />
-      <workItem from="1626022800735" duration="7463000" />
+      <workItem from="1626022800735" duration="8360000" />
     </task>
     <task id="LOCAL-00001" summary="add folders , for first 3 part of course">
       <created>1625946570119</created>
@@ -101,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626028238996</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="lecture 034 Function Declarations vs. Expressions code">
+      <created>1626104713641</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1626104713641</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +121,7 @@
     <MESSAGE value="add assignment file to solve lecture assignments" />
     <MESSAGE value="solve function assignment" />
     <MESSAGE value="lecture 033 Functions code" />
-    <option name="LAST_COMMIT_MESSAGE" value="lecture 033 Functions code" />
+    <MESSAGE value="lecture 034 Function Declarations vs. Expressions code" />
+    <option name="LAST_COMMIT_MESSAGE" value="lecture 034 Function Declarations vs. Expressions code" />
   </component>
 </project>
