@@ -71,6 +71,7 @@ console.log(age3)
 //for now wa actually keep using mainly the normal functions , except for one -linear functions.
 */
 
+/*
 //036 Functions Calling Other Functions
 function cutFruitPieces(fruit){
     return fruit*4;
@@ -80,7 +81,10 @@ function fruitProcessor(apples, oranges) {
     const applePieces=cutFruitPieces(apples);
     const orangePieces=cutFruitPieces(oranges);
 
-    const juice = `Juice with ${applePieces} pieces of apples and ${orangePieces} pieces of oranges.`;
-    return juice;
+    return `Juice with ${applePieces} pieces of apples and ${orangePieces} pieces of oranges.`;
 }
 console.log(fruitProcessor(2,3))
+*/
+
+//037 Reviewing Functions
+
