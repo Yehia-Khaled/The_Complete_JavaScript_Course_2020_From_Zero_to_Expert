@@ -86,5 +86,29 @@ function fruitProcessor(apples, oranges) {
 console.log(fruitProcessor(2,3))
 */
 
-//037 Reviewing Functions
+//039 Introduction to Arrays
+const friends =["mohamed",'mina','marwan'];
+console.log(friends[friends.length-1]); //can put [] any expression that produce value between []
 
+friends[2]='Mena';
+console.log(friends)
+
+const firstName='Yehia';
+const yehia=[firstName,"Blue",2021-1999,'Web developer',friends]
+console.log(yehia,yehia[4])
+
+//Exercise
+const calcAge=function (birthYear){
+    return 2037-birthYear;
+}
+
+const years=[1999,1985,1950,2012,2010,2036];
+
+const age1=calcAge(years[0])
+const age2=calcAge(years[1])
+const age3=calcAge(years[years.length-1])
+
+console.log(age1,age2,age3)
+
+const ages=[calcAge(years[0]),calcAge(years[1]),calcAge(years[years.length-1])]
+console.log('Ages',ages)
