@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5283680b-5bf0-4a08-aaca-9815d83fee81" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/Coding Challenge.js" beforeDir="false" afterPath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/Coding Challenge.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +59,7 @@
       <updated>1625938828437</updated>
       <workItem from="1625938835115" duration="5046000" />
       <workItem from="1626022800735" duration="10451000" />
-      <workItem from="1626186335774" duration="9146000" />
+      <workItem from="1626186335774" duration="10808000" />
     </task>
     <task id="LOCAL-00001" summary="add folders , for first 3 part of course">
       <created>1625946570119</created>
@@ -143,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626370318259</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="lecture 040 Basic Array Operations (Methods) my written code">
+      <created>1626371534893</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1626371534893</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +172,7 @@
     <MESSAGE value="Create coding challenge file" />
     <MESSAGE value="Solve codding challenge 1 for fundamental Part 2" />
     <MESSAGE value="lecture 039 Introduction to Arrays my written code" />
-    <option name="LAST_COMMIT_MESSAGE" value="lecture 039 Introduction to Arrays my written code" />
+    <MESSAGE value="lecture 040 Basic Array Operations (Methods) my written code" />
+    <option name="LAST_COMMIT_MESSAGE" value="lecture 040 Basic Array Operations (Methods) my written code" />
   </component>
 </project>

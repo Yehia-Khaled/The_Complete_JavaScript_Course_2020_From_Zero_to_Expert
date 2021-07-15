@@ -24,18 +24,18 @@ Hints:
 § To calculate average of 3 values, add them all together and divide by 3
 § To check if number A is at least double number B, check for A >= 2 * B.
 Apply this to the team's average scores 😉
-GOOD LUCK 😀*/
+GOOD LUCK 😀
 
 //1- create an arrow function to calculate calcAverage score
 const calcAverage =(a,b,c)=> (a+b+c)/3;
 console.log(calcAverage(1,2,3)); // test calcAverage function
 
 // 2- calculate calcAverage for both team
-/*
+/!*
 //test for data 1
 const avgDolhins=calcAverage(44,23,71);
 const avgKoalas=calcAverage(65,54,49);
-*/
+*!/
 
 // test  for data 2
 const avgDolhins=calcAverage(85,54,41);
@@ -55,3 +55,45 @@ const checkWinner =function (avgDolhins,avgKoalas){
 //4- determine the winner using function checkWinner
 checkWinner(avgDolhins,avgKoalas);
 console.log(avgDolhins>=2*avgKoalas) //test result for data 2
+*/
+/*
+* Coding Challenge #2
+Steven is still building his tip calculator, using the same rules as before: Tip 15% of
+the bill if the bill value is between 50 and 300, and if the value is different, the tip is
+20%.
+Your tasks:
+1. Write a function 'calcTip' that takes any bill value as an input and returns
+the corresponding tip, calculated based on the rules above (you can check out
+the code from first tip calculator challenge if you need to). Use the function
+type you like the most. Test the function using a bill value of 100
+2. And now let's use arrays! So create an array 'bills' containing the test data
+below
+3. Create an array 'tips' containing the tip value for each bill, calculated from
+the function you created before
+4. Bonus: Create an array 'total' containing the total values, so the bill + tip
+Test data: 125, 555 and 44
+Hint: Remember that an array needs a value in each position, and that value can
+actually be the returned value of a function! So you can just call a function as array
+values (so don't store the tip values in separate variables first, but right in the new
+array) 😉
+GOOD LUCK 😀*/
+
+// 1- Write a function 'calcTip'
+const calcTip=function (bill){
+    /*if(bill>50&&bill<300) return bill*0.15
+    else return bill*0.2*/
+    return bill >=50 && bill<=300 ?bill*0.15 :bill*0.2; //using conditional ternary operators
+}
+console.log(calcTip(100))//test function
+
+//2-create an array 'bills' containing the test data below
+const bills=[125,555,44]
+console.log("bills",bills)
+
+//3- Create an array 'tips' containing the tip value for each bill
+const tips=[calcTip(bills[0]),calcTip(bills[1]),calcTip(bills[bills.length-1])]
+console.log("tips for bills",tips)
+
+//4-Create an array 'total' containing the total values
+const total=[bills[0]+tips[0],bills[1]+tips[1],bills[bills.length-1]+tips[tips.length-1]]
+console.log("Total bills + tips ",total)

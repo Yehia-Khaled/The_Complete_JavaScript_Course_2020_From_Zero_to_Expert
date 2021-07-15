@@ -114,7 +114,7 @@ console.log(age1,age2,age3)
 const ages=[calcAge(years[0]),calcAge(years[1]),calcAge(years[years.length-1])]
 console.log('Ages',ages)
 */
-
+/*
 //040 Basic Array Operations (Methods)
 // Add elements
 const friends =["mohamed",'mina','marwan'];
@@ -139,3 +139,4 @@ console.log(friends.includes('mina')) //get value true of the value on array
 console.log(friends.includes('bob')) //get value False of the value out of  array
 
 if (friends.includes('mina')) console.log("you have a friend called Mina")
+*/
