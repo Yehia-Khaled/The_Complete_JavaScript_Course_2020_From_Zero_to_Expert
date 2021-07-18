@@ -140,3 +140,20 @@ console.log(friends.includes('bob')) //get value False of the value out of  arra
 
 if (friends.includes('mina')) console.log("you have a friend called Mina")
 */
+
+//042 Introduction to Objects
+
+//we use Curly brackets or curly braces ,this is the Second time we see , First we use to define a code block
+//we use here to define a new object
+//we call this method the object literal Syntax.
+const Yehia={
+    firstName:Yehia, // firstName is the key or 'Property' =the variables name ,then :'a colon' ,then a value
+    lastName:Yehia,
+    age:1999-2021,
+    jop:'Web Developer',
+    friends:["mohamed",'mina','marwan']
+};
+/*Difference between objects and arrays
+*objects: the order of these values does not matter at all when retrieve them
+*Arrays: the order which we specify the elements matters a lot ,as this is the only method access these elements using their order number
+* this means that we should use arrays for more order data and objects for more unstructured data,and data that we actually want to name, and then retrieve from the object based on that name   */
