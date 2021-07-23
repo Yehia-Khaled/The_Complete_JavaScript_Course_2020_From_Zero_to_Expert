@@ -141,6 +141,7 @@ console.log(friends.includes('bob')) //get value False of the value out of  arra
 if (friends.includes('mina')) console.log("you have a friend called Mina")
 */
 
+/*
 //042 Introduction to Objects
 
 //we use Curly brackets or curly braces ,this is the Second time we see , First we use to define a code block
@@ -153,7 +154,50 @@ const Yehia={
     jop:'Web Developer',
     friends:["mohamed",'mina','marwan']
 };
-/*Difference between objects and arrays
+/!*Difference between objects and arrays
 *objects: the order of these values does not matter at all when retrieve them
 *Arrays: the order which we specify the elements matters a lot ,as this is the only method access these elements using their order number
-* this means that we should use arrays for more order data and objects for more unstructured data,and data that we actually want to name, and then retrieve from the object based on that name   */
+* this means that we should use arrays for more order data and objects for more unstructured data,and data that we actually want to name, and then retrieve from the object based on that name   *!/
+*/
+
+//043 Dot vs. Bracket Notation
+const Yehia={
+    firstName:'Yehia', // firstName is the key or 'Property' =the variables name ,then :'a colon' ,then a value
+    lastName:'YehiaM',
+    age:1999-2021,
+    job:'Web Developer',
+    friends:["mohamed",'mina','millious']
+};
+console.log(Yehia);
+
+console.log(Yehia.lastName);// access using Dot notation
+console.log(Yehia['lastName']) // access using Bracket Notation
+/*The Big Difference between Dot notation and Bracket Notation
+* Bracket Notation: We can actually put any expression that we'd like, "expression produce a value" ,
+* so we don't have to explicitly write the string here,but instead we can compute it from some operation,
+* remember operation is basically an expression, so something that produces a value
+* and so we can put inside the brackets*/
+
+//Example Bracket Notation
+const nameKey ='Name';
+console.log(Yehia['first'+nameKey]);
+console.log(Yehia['last'+nameKey]);
+
+/*
+const interestedIn=prompt('What do you want to know about Yehia? choose between firstName,lastName,age,job, and friends');
+
+// console.log(Yehia[interestedIn]);//get correct result only using Bracket Notation as it is basically expression that we put here between these brackets will get evaluated
+
+Yehia[interestedIn] ?console.log(Yehia[interestedIn]):console.log('Wrong request!, Please choose between firstName,lastName,age,job, and friends')
+*/
+
+
+//add new properties to objects
+Yehia.location='Egypt';
+Yehia['tip']='Drink water now';
+
+console.log(Yehia)
+
+//challenge
+console.log(`${Yehia.firstName} has ${Yehia["friends"].length} friends, and his best
+ friends is called ${Yehia.friends[0]}`)
