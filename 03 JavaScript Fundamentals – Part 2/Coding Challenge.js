@@ -1,6 +1,6 @@
 'use strict';
 /*
-* Coding Challenge #1
+* TODO Coding Challenge #1
 Back to the two gymnastics teams, the Dolphins and the Koalas! There is a new
 gymnastics discipline, which works differently.
 Each team competes 3 times, and then the average of the 3 scores is calculated (so
@@ -57,7 +57,7 @@ checkWinner(avgDolhins,avgKoalas);
 console.log(avgDolhins>=2*avgKoalas) //test result for data 2
 */
 /*
-* Coding Challenge #2
+* TODO Coding Challenge #2
 Steven is still building his tip calculator, using the same rules as before: Tip 15% of
 the bill if the bill value is between 50 and 300, and if the value is different, the tip is
 20%.
@@ -76,12 +76,13 @@ Hint: Remember that an array needs a value in each position, and that value can
 actually be the returned value of a function! So you can just call a function as array
 values (so don't store the tip values in separate variables first, but right in the new
 array) 😉
-GOOD LUCK 😀*/
+GOOD LUCK 😀
 
+ //Solution
 // 1- Write a function 'calcTip'
 const calcTip=function (bill){
-    /*if(bill>50&&bill<300) return bill*0.15
-    else return bill*0.2*/
+    /!*if(bill>50&&bill<300) return bill*0.15
+    else return bill*0.2*!/
     return bill >=50 && bill<=300 ?bill*0.15 :bill*0.2; //using conditional ternary operators
 }
 console.log(calcTip(100))//test function
@@ -97,3 +98,49 @@ console.log("tips for bills",tips)
 //4-Create an array 'total' containing the total values
 const total=[bills[0]+tips[0],bills[1]+tips[1],bills[bills.length-1]+tips[tips.length-1]]
 console.log("Total bills + tips ",total)
+*/
+
+/*
+*TODO Coding Challenge #3
+Let's go back to Mark and John comparing their BMIs! This time, let's use objects to
+implement the calculations! Remember: BMI = mass / height ** 2 = mass
+/ (height * height) (mass in kg and height in meter)
+Your tasks:
+1. For each of them, create an object with properties for their full name, mass, and
+height (Mark Miller and John Smith)
+2. Create a 'calcBMI' method on each object to calculate the BMI (the same
+method on both objects). Store the BMI value to a property, and also return it
+from the method
+3. Log to the console who has the higher BMI, together with the full name and the
+respective BMI. Example: "John's BMI (28.3) is higher than Mark's (23.9)!"
+Test data: Marks weights 78 kg and is 1.69 m tall. John weights 92 kg and is 1.95 m
+tall.
+GOOD LUCK 😀 */
+//Solution
+//1- Create an object
+const mark={
+    fullName:'Mark Miller',
+    mass:78,
+    height:1.69,
+    //'calcBMI' method
+    calcBMI:function (){
+        this.BMI=this.mass /(this.height**2)
+        // console.log(`Mark's BMI is ${this.BMI}`) test data
+        return this.BMI
+    }
+}
+const john={
+    fullName:'John Smith',
+    mass:92,
+    height:1.95,
+    calcBMI:function (){
+        this.BMI=this.mass /(this.height**2)
+        // console.log(`john's BMI is ${this.BMI}`) test data
+        return this.BMI
+    }
+}
+//3- print result to console
+
+mark.calcBMI()>john.calcBMI()?
+    console.log(`${mark.fullName}'s BMI (${mark.calcBMI()}) is higher than ${john.fullName}'s BMI (${john.calcBMI()})!`)
+    :console.log(`${john.fullName}'s BMI (${john.calcBMI()}) is higher than ${mark.fullName}'s (${mark.calcBMI()})!`)
