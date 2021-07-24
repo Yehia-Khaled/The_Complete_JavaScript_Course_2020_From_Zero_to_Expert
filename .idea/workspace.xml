@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5283680b-5bf0-4a08-aaca-9815d83fee81" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +67,7 @@
       <workItem from="1626022800735" duration="10451000" />
       <workItem from="1626186335774" duration="11280000" />
       <workItem from="1626619991468" duration="2683000" />
-      <workItem from="1626888896517" duration="4871000" />
+      <workItem from="1626888896517" duration="10207000" />
     </task>
     <task id="LOCAL-00001" summary="add folders , for first 3 part of course">
       <created>1625946570119</created>
@@ -180,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627073781618</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="resources of challenges and assignments">
+      <created>1627074180307</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1627074180307</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +212,7 @@
     <MESSAGE value="Solve codding challenge 2 for fundamental Part 2" />
     <MESSAGE value="lecture 042 Introduction to Objects my written code" />
     <MESSAGE value="lecture 043 Dot vs. Bracket Notation my written code,and notes." />
-    <option name="LAST_COMMIT_MESSAGE" value="lecture 043 Dot vs. Bracket Notation my written code,and notes." />
+    <MESSAGE value="resources of challenges and assignments" />
+    <option name="LAST_COMMIT_MESSAGE" value="resources of challenges and assignments" />
   </component>
 </project>

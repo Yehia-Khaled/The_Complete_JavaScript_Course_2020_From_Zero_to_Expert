@@ -160,6 +160,7 @@ const Yehia={
 * this means that we should use arrays for more order data and objects for more unstructured data,and data that we actually want to name, and then retrieve from the object based on that name   *!/
 */
 
+/*
 //043 Dot vs. Bracket Notation
 const Yehia={
     firstName:'Yehia', // firstName is the key or 'Property' =the variables name ,then :'a colon' ,then a value
@@ -172,24 +173,24 @@ console.log(Yehia);
 
 console.log(Yehia.lastName);// access using Dot notation
 console.log(Yehia['lastName']) // access using Bracket Notation
-/*The Big Difference between Dot notation and Bracket Notation
+/!*The Big Difference between Dot notation and Bracket Notation
 * Bracket Notation: We can actually put any expression that we'd like, "expression produce a value" ,
 * so we don't have to explicitly write the string here,but instead we can compute it from some operation,
 * remember operation is basically an expression, so something that produces a value
-* and so we can put inside the brackets*/
+* and so we can put inside the brackets*!/
 
 //Example Bracket Notation
 const nameKey ='Name';
 console.log(Yehia['first'+nameKey]);
 console.log(Yehia['last'+nameKey]);
 
-/*
+/!*
 const interestedIn=prompt('What do you want to know about Yehia? choose between firstName,lastName,age,job, and friends');
 
 // console.log(Yehia[interestedIn]);//get correct result only using Bracket Notation as it is basically expression that we put here between these brackets will get evaluated
 
 Yehia[interestedIn] ?console.log(Yehia[interestedIn]):console.log('Wrong request!, Please choose between firstName,lastName,age,job, and friends')
-*/
+*!/
 
 
 //add new properties to objects
@@ -201,3 +202,35 @@ console.log(Yehia)
 //challenge
 console.log(`${Yehia.firstName} has ${Yehia["friends"].length} friends, and his best
  friends is called ${Yehia.friends[0]}`)
+*/
+
+//044 Object Methods
+const yehia={
+    firstName:'Yehia', // firstName is the key or 'Property' =the variables name ,then :'a colon' ,then a value
+    lastName:'YehiaM',
+    birthYear:1999,
+    job:'Web Developer',
+    friends:["mohamed",'mina','millious'],
+    hasDriversLicense:false,
+
+    // calcAge:(birthYear)=>2037-birthYear //function that is attached to object is called method, function value
+/*    calcAge:function (){
+        // console.log(this);//yehia object is one is calling this method
+        return 2037-this.birthYear //9:27//this will point to yehia object
+    }*/
+        calcAge :function (){
+        this.age=2037-this.birthYear;
+        return this.age //9:27//this will point to yehia object
+    },
+    getSummary:function (){
+            console.log(`${this.firstName} is a ${this.age}-year old ${this.job}, and he has ${this.hasDriversLicense? 'a':'no'} a driver's licence`)
+    }
+};
+console.log(yehia.calcAge());
+console.log(yehia.age);
+console.log(yehia.age);
+console.log(yehia.age);
+
+//challenge
+yehia.getSummary()
+                     
