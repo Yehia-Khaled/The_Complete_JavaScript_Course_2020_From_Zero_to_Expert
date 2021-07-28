@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5283680b-5bf0-4a08-aaca-9815d83fee81" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +78,7 @@
       <workItem from="1626619991468" duration="2683000" />
       <workItem from="1626888896517" duration="12794000" />
       <workItem from="1627422712588" duration="986000" />
-      <workItem from="1627425223166" duration="1884000" />
+      <workItem from="1627425223166" duration="2650000" />
     </task>
     <task id="LOCAL-00001" summary="add folders , for first 3 part of course">
       <created>1625946570119</created>
@@ -214,11 +213,21 @@
       <option name="project" value="LOCAL" />
       <updated>1627157493529</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="lecture 046 Iteration_ The for Loop my written code,and notes.">
+      <created>1627510042364</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1627510042364</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -241,7 +250,8 @@
     <MESSAGE value="resources of challenges and assignments" />
     <MESSAGE value="lecture 044 Object Methods my written code,and notes." />
     <MESSAGE value="Solve codding challenge 3 for fundamental Part 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solve codding challenge 3 for fundamental Part 2" />
+    <MESSAGE value="lecture 046 Iteration_ The for Loop my written code,and notes." />
+    <option name="LAST_COMMIT_MESSAGE" value="lecture 046 Iteration_ The for Loop my written code,and notes." />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
