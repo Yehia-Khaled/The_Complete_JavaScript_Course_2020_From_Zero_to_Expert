@@ -204,7 +204,7 @@ console.log(`${Yehia.firstName} has ${Yehia["friends"].length} friends, and his 
  friends is called ${Yehia.friends[0]}`)
 */
 
-//044 Object Methods
+/*//044 Object Methods
 const yehia={
     firstName:'Yehia', // firstName is the key or 'Property' =the variables name ,then :'a colon' ,then a value
     lastName:'YehiaM',
@@ -214,10 +214,10 @@ const yehia={
     hasDriversLicense:false,
 
     // calcAge:(birthYear)=>2037-birthYear //function that is attached to object is called method, function value
-/*    calcAge:function (){
+/!*    calcAge:function (){
         // console.log(this);//yehia object is one is calling this method
         return 2037-this.birthYear //9:27//this will point to yehia object
-    }*/
+    }*!/
         calcAge :function (){
         this.age=2037-this.birthYear;
         return this.age //9:27//this will point to yehia object
@@ -232,5 +232,11 @@ console.log(yehia.age);
 console.log(yehia.age);
 
 //challenge
-yehia.getSummary()
-                     
+yehia.getSummary()*/
+
+//046 Iteration_ The for Loop
+
+//for loop keeps running while conditions is TRUE
+for (let rep =0;rep<10;rep++){
+    console.log(`lifting weights repetition ${rep +1}`)
+}
