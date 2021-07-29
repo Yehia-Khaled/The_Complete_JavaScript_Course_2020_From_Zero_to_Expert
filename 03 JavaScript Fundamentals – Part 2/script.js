@@ -240,6 +240,7 @@ yehia.getSummary()*/
 for (let rep =0;rep<10;rep++){
     console.log(`lifting weights repetition ${rep +1}`)
 }*/
+/*
 
 //047 Looping Arrays, Breaking and Continuing
 
@@ -282,4 +283,19 @@ console.log('---- BREAK WITH NUMBERS ----')
 for(let i=0;i<yehia.length;i++){
     if (typeof yehia[i] === 'number') break; //break Completely terminate the whole loop
     console.log(yehia[i],typeof yehia[i])
+}*/
+
+//048 Looping Backwards and Loops in Loops
+const yehia=[
+    'Yehia',
+    'mahmoud',
+    1999-2021,
+    'Web Developer',
+    ["mohamed",'mina','marwan'],
+    true
+]
+
+//looping backward
+for (let i=yehia.length-1;i>=0;i--){
+    console.log(i,yehia[i]);
 }
