@@ -236,7 +236,50 @@ yehia.getSummary()*/
 
 //046 Iteration_ The for Loop
 
-//for loop keeps running while conditions is TRUE
+/*//for loop keeps running while conditions is TRUE
 for (let rep =0;rep<10;rep++){
     console.log(`lifting weights repetition ${rep +1}`)
+}*/
+
+//047 Looping Arrays, Breaking and Continuing
+
+const yehia=[
+    'Yehia',
+    'mahmoud',
+    1999-2021,
+    'Web Developer',
+    ["mohamed",'mina','marwan']
+]
+const types=[]
+
+for(let i=0;i<yehia.length;i++){
+    // reading from yehia array
+    console.log(yehia[i],typeof yehia[i])
+
+    //filling types array
+    // types[i]=typeof yehia[i]
+    types.push(typeof yehia[i])
+}
+console.log(types)
+
+const years =[1999,1958,2001,2010]
+const ages=[]
+
+for(let i=0;i<years.length;i++){
+    ages.push(2037-years[i]);
+}
+console.log(ages)
+
+//continue and break
+console.log('---- ONLY STRINGS ----')
+for(let i=0;i<yehia.length;i++){
+    if (typeof yehia[i] !== 'string') continue; // the current iteration of the loop is exited ,and then the next one starts immediately.
+    console.log(yehia[i],typeof yehia[i])
+}
+
+// break Completely terminate the whole loop,so not just the current iteration
+console.log('---- BREAK WITH NUMBERS ----')
+for(let i=0;i<yehia.length;i++){
+    if (typeof yehia[i] === 'number') break; //break Completely terminate the whole loop
+    console.log(yehia[i],typeof yehia[i])
 }
