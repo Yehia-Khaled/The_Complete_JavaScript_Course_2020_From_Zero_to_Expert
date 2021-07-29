@@ -285,6 +285,7 @@ for(let i=0;i<yehia.length;i++){
     console.log(yehia[i],typeof yehia[i])
 }*/
 
+/*
 //048 Looping Backwards and Loops in Loops
 const yehia=[
     'Yehia',
@@ -298,4 +299,27 @@ const yehia=[
 //looping backward
 for (let i=yehia.length-1;i>=0;i--){
     console.log(i,yehia[i]);
+}*/
+
+//049 The while Lo049 The while Loop
+/*console.log("--- FOR ---")
+for (let rep =0;rep<10;rep++){
+    console.log(`lifting weights repetition ${rep +1}`)
+}*/
+
+console.log("--- WHILE ---")
+let rep = 0;
+while (rep < 10) {//loop while this condition is TRUE
+    console.log(`lifting weights repetition ${rep + 1}`)
+    rep++
+}
+
+// let dice= Math.random() *6 // Math.random() create a number between zero and one then w we multiply by a six
+let dice = Math.trunc(Math.random() * 6) + 1 //will give us a number between zero and five ,and then we add one to get from one to sex .
+console.log(dice)
+
+while (dice !== 6) {
+    console.log(` you are rolled dice ${dice}`)
+    dice = Math.trunc(Math.random() * 6) + 1
+    if (dice === 6) console.log('loop ia about to end .......');
 }
