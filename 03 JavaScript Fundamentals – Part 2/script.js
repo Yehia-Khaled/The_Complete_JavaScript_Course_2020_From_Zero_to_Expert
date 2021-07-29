@@ -301,11 +301,12 @@ for (let i=yehia.length-1;i>=0;i--){
     console.log(i,yehia[i]);
 }*/
 
+/*
 //049 The while Lo049 The while Loop
-/*console.log("--- FOR ---")
+/!*console.log("--- FOR ---")
 for (let rep =0;rep<10;rep++){
     console.log(`lifting weights repetition ${rep +1}`)
-}*/
+}*!/
 
 console.log("--- WHILE ---")
 let rep = 0;
@@ -322,4 +323,4 @@ while (dice !== 6) {
     console.log(` you are rolled dice ${dice}`)
     dice = Math.trunc(Math.random() * 6) + 1
     if (dice === 6) console.log('loop ia about to end .......');
-}
+}*/
