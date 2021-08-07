@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5283680b-5bf0-4a08-aaca-9815d83fee81" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/Coding Challenge.js" beforeDir="false" afterPath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/Coding Challenge.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/03 JavaScript Fundamentals – Part 2/script.js" afterDir="false" />
-    </list>
+    <list default="true" id="5283680b-5bf0-4a08-aaca-9815d83fee81" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +86,7 @@
       <workItem from="1626888896517" duration="12794000" />
       <workItem from="1627422712588" duration="986000" />
       <workItem from="1627425223166" duration="8782000" />
-      <workItem from="1627577701218" duration="3356000" />
+      <workItem from="1627577701218" duration="4038000" />
     </task>
     <task id="LOCAL-00001" summary="add folders , for first 3 part of course">
       <created>1625946570119</created>
@@ -261,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627578148915</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Solve codding challenge 4 for fundamental Part 2">
+      <created>1627583448807</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1627583448807</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,7 +298,8 @@
     <MESSAGE value="lecture 047 Looping Arrays, Breaking and Continuing my written code,and notes." />
     <MESSAGE value="lecture 048 Looping Backwards and Loops in Loops my written code,and notes." />
     <MESSAGE value="lecture 049 The while Loop my written code,and notes." />
-    <option name="LAST_COMMIT_MESSAGE" value="lecture 049 The while Loop my written code,and notes." />
+    <MESSAGE value="Solve codding challenge 4 for fundamental Part 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve codding challenge 4 for fundamental Part 2" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

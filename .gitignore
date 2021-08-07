@@ -1,6 +1,8 @@
 *.pdf
 *.mp4
 *.srt
+*.txt
+
 final/
 /01 Welcome, Welcome, Welcome!/complete-javascript-course-master/
 /01 Welcome, Welcome, Welcome!/003 course-material-v2.0.zip
@@ -10,7 +12,6 @@ final/
 /01 Welcome, Welcome, Welcome!/complete-javascript-course-master.zip
 /03 JavaScript Fundamentals – Part 2/02-Fundamentals-Part-2/starter/
 /04 How to Navigate This Course/
-/05 Developer Skills & Editor Setup/
 /06 [OPTIONAL] HTML & CSS Crash Course/
 /07 JavaScript in the Browser_ DOM and Events Fundamentals/
 /08 How JavaScript Works Behind the Scenes/
@@ -26,3 +27,4 @@ final/
 /18 Forkify App_ Building a Modern Application/
 /19 Setting Up Git and Deployment/
 /20 The End!/
+/05 Developer Skills & Editor Setup/054 Section Roadmap.html
