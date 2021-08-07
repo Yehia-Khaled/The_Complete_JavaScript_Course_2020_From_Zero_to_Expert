@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5283680b-5bf0-4a08-aaca-9815d83fee81" name="Default Changelist" comment="" />
+    <list default="true" id="5283680b-5bf0-4a08-aaca-9815d83fee81" name="Default Changelist" comment="starter code of 05 Developer Skills &amp; Editor Setup">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 Developer Skills &amp; Editor Setup/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/05 Developer Skills &amp; Editor Setup/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 Developer Skills &amp; Editor Setup/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05 Developer Skills &amp; Editor Setup/script.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,11 +54,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="code.cleanup.on.save" value="true" />
+    <property name="format.on.save" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="liveEdit" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="actions.on.save" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -87,6 +97,7 @@
       <workItem from="1627422712588" duration="986000" />
       <workItem from="1627425223166" duration="8782000" />
       <workItem from="1627577701218" duration="4038000" />
+      <workItem from="1628371200392" duration="3482000" />
     </task>
     <task id="LOCAL-00001" summary="add folders , for first 3 part of course">
       <created>1625946570119</created>
@@ -263,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627583448807</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="starter code of 05 Developer Skills &amp; Editor Setup">
+      <created>1628371505611</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1628371505611</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,7 +292,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add folders , for first 3 part of course" />
     <MESSAGE value="code lecture 032 Activating Strict Mode" />
     <MESSAGE value="refactor and move file" />
     <MESSAGE value="add assignment file to solve lecture assignments" />
@@ -299,9 +316,14 @@
     <MESSAGE value="lecture 048 Looping Backwards and Loops in Loops my written code,and notes." />
     <MESSAGE value="lecture 049 The while Loop my written code,and notes." />
     <MESSAGE value="Solve codding challenge 4 for fundamental Part 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solve codding challenge 4 for fundamental Part 2" />
+    <MESSAGE value="starter code of 05 Developer Skills &amp; Editor Setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="starter code of 05 Developer Skills &amp; Editor Setup" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
