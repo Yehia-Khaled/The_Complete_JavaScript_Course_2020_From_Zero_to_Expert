@@ -20,7 +20,9 @@ const calcAge = birtheyear => console.log(2037 - birtheyear);
 calcAge(1999);
 console.log();*/
 
-/* 056 Installing Node.js and Setting Up a Dev Environment */
-console.log('Hello yehia');
+/*/!* 056 Installing Node.js and Setting Up a Dev Environment *!/
+console.log('Hello yehia');*/
 
+//057 Learning How to Code
+//just keep going ,keep coding, and keep building.
 
