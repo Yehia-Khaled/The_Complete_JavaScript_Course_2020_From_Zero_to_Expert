@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5283680b-5bf0-4a08-aaca-9815d83fee81" name="Default Changelist" comment="lecture 055 Setting up Prettier and VS Code my written code,and notes.">
+    <list default="true" id="5283680b-5bf0-4a08-aaca-9815d83fee81" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 Developer Skills &amp; Editor Setup/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/05 Developer Skills &amp; Editor Setup/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 Developer Skills &amp; Editor Setup/app.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/05 Developer Skills &amp; Editor Setup/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05 Developer Skills &amp; Editor Setup/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,6 +96,7 @@
       <workItem from="1627425223166" duration="8782000" />
       <workItem from="1627577701218" duration="4038000" />
       <workItem from="1628371200392" duration="7466000" />
+      <workItem from="1628771547733" duration="814000" />
     </task>
     <task id="LOCAL-00001" summary="add folders , for first 3 part of course">
       <created>1625946570119</created>
@@ -286,7 +287,21 @@
       <option name="project" value="LOCAL" />
       <updated>1628376912733</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="lecture 056 Installing Node.js and Setting Up a Dev Environment my written code,and notes.">
+      <created>1628771705655</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1628771705656</updated>
+    </task>
+    <task id="LOCAL-00029" summary="lecture 057 Learning How to Code my written code,and notes.">
+      <created>1628771814137</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1628771814137</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,8 +312,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="refactor and move file" />
-    <MESSAGE value="add assignment file to solve lecture assignments" />
     <MESSAGE value="solve function assignment" />
     <MESSAGE value="lecture 033 Functions code" />
     <MESSAGE value="lecture 034 Function Declarations vs. Expressions code" />
@@ -322,7 +335,9 @@
     <MESSAGE value="Solve codding challenge 4 for fundamental Part 2" />
     <MESSAGE value="starter code of 05 Developer Skills &amp; Editor Setup" />
     <MESSAGE value="lecture 055 Setting up Prettier and VS Code my written code,and notes." />
-    <option name="LAST_COMMIT_MESSAGE" value="lecture 055 Setting up Prettier and VS Code my written code,and notes." />
+    <MESSAGE value="lecture 056 Installing Node.js and Setting Up a Dev Environment my written code,and notes." />
+    <MESSAGE value="lecture 057 Learning How to Code my written code,and notes." />
+    <option name="LAST_COMMIT_MESSAGE" value="lecture 057 Learning How to Code my written code,and notes." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
