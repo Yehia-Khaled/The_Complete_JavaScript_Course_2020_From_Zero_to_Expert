@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5283680b-5bf0-4a08-aaca-9815d83fee81" name="Default Changelist" comment="starter code of 05 Developer Skills &amp; Editor Setup">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="5283680b-5bf0-4a08-aaca-9815d83fee81" name="Default Changelist" comment="lecture 055 Setting up Prettier and VS Code my written code,and notes.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/05 Developer Skills &amp; Editor Setup/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/05 Developer Skills &amp; Editor Setup/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/05 Developer Skills &amp; Editor Setup/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05 Developer Skills &amp; Editor Setup/script.js" afterDir="false" />
@@ -52,7 +51,6 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="code.cleanup.on.save" value="true" />
     <property name="format.on.save" value="true" />
@@ -97,7 +95,7 @@
       <workItem from="1627422712588" duration="986000" />
       <workItem from="1627425223166" duration="8782000" />
       <workItem from="1627577701218" duration="4038000" />
-      <workItem from="1628371200392" duration="3482000" />
+      <workItem from="1628371200392" duration="7466000" />
     </task>
     <task id="LOCAL-00001" summary="add folders , for first 3 part of course">
       <created>1625946570119</created>
@@ -281,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628371505611</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="lecture 055 Setting up Prettier and VS Code my written code,and notes.">
+      <created>1628376912732</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1628376912733</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,7 +297,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="code lecture 032 Activating Strict Mode" />
     <MESSAGE value="refactor and move file" />
     <MESSAGE value="add assignment file to solve lecture assignments" />
     <MESSAGE value="solve function assignment" />
@@ -317,7 +321,8 @@
     <MESSAGE value="lecture 049 The while Loop my written code,and notes." />
     <MESSAGE value="Solve codding challenge 4 for fundamental Part 2" />
     <MESSAGE value="starter code of 05 Developer Skills &amp; Editor Setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="starter code of 05 Developer Skills &amp; Editor Setup" />
+    <MESSAGE value="lecture 055 Setting up Prettier and VS Code my written code,and notes." />
+    <option name="LAST_COMMIT_MESSAGE" value="lecture 055 Setting up Prettier and VS Code my written code,and notes." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
