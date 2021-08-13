@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5283680b-5bf0-4a08-aaca-9815d83fee81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/05 Developer Skills &amp; Editor Setup/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/05 Developer Skills &amp; Editor Setup/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/05 Developer Skills &amp; Editor Setup/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/05 Developer Skills &amp; Editor Setup/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05 Developer Skills &amp; Editor Setup/script.js" afterDir="false" />
@@ -97,7 +96,7 @@
       <workItem from="1627425223166" duration="8782000" />
       <workItem from="1627577701218" duration="4038000" />
       <workItem from="1628371200392" duration="7466000" />
-      <workItem from="1628771547733" duration="11660000" />
+      <workItem from="1628771547733" duration="12326000" />
     </task>
     <task id="LOCAL-00001" summary="add folders , for first 3 part of course">
       <created>1625946570119</created>
@@ -309,7 +308,21 @@
       <option name="project" value="LOCAL" />
       <updated>1628772401496</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="lecture 059 Using Google, StackOverflow and MDN my written code,and notes.">
+      <created>1628882880512</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1628882880512</updated>
+    </task>
+    <task id="LOCAL-00032" summary="style of web page in external folder">
+      <created>1628882942420</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1628882942420</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,8 +333,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="lecture 033 Functions code" />
-    <MESSAGE value="lecture 034 Function Declarations vs. Expressions code" />
     <MESSAGE value="lecture 035 Arrow Functions code" />
     <MESSAGE value="lecture 036 Functions Calling Other Functions my written code" />
     <MESSAGE value="Create coding challenge file" />
@@ -345,7 +356,9 @@
     <MESSAGE value="lecture 056 Installing Node.js and Setting Up a Dev Environment my written code,and notes." />
     <MESSAGE value="lecture 057 Learning How to Code my written code,and notes." />
     <MESSAGE value="lecture 058 How to Think Like a Developer_ Become a Problem Solver!my written code,and notes." />
-    <option name="LAST_COMMIT_MESSAGE" value="lecture 058 How to Think Like a Developer_ Become a Problem Solver!my written code,and notes." />
+    <MESSAGE value="lecture 059 Using Google, StackOverflow and MDN my written code,and notes." />
+    <MESSAGE value="style of web page in external folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="style of web page in external folder" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

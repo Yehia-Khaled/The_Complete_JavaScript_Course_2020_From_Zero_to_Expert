@@ -28,9 +28,10 @@ console.log('Hello yehia');*/
 
 //058 How to Think Like a Developer_ Become a Problem Solver!
 
+/*
 //059 Using Google, StackOverflow and MDN
 
-/*//problem 1
+/!*!//problem 1
 /!*we work for a company building a smart home thermometer. Our most recent task is this : "
 * given an array of temperatures of one day, calculate the temperature amplitude.keep in mind that
 * sometimes there might ba a sensor error*!/
@@ -62,7 +63,7 @@ const calcTempAmplitudeP1 = function (temps) {
 };
 // console.log(calcTempAmplitude([7, 4, 3]))
 const amplitudeP1 = calcTempAmplitudeP1(temepratures);
-console.log(amplitudeP1)*/
+console.log(amplitudeP1)*!/
 
 //problem 2
 //function should now receive 2 arrays of temps
@@ -94,3 +95,19 @@ console.log(calcTempAmplitudeP2([7, 4, 3], [50, 0, -1])) //test function
 
 const amplitudeP2 = calcTempAmplitudeP2(temperature1, temperature2);
 console.log(`Amplitude of temperature = ${amplitudeP2}`)
+*/
+
+//060 Debugging (Fixing Errors)
+/*
+/!*What is A software Bug? *!/
+- Software bug: defect or problem in a computer program ,Basically ,any
+unexpested or unintended behavior of a computer program is a software bug.
+
+- Bugs are completely normal in software development!
+
+- Debugging: Process of finding, fixing and preventing bugs.
+
+- The debugging process
+ IDENTIFY => FIND => FIX => PREVENT
+
+*/
