@@ -97,11 +97,11 @@ const amplitudeP2 = calcTempAmplitudeP2(temperature1, temperature2);
 console.log(`Amplitude of temperature = ${amplitudeP2}`)
 */
 
-//060 Debugging (Fixing Errors)
-/*
+/*//060 Debugging (Fixing Errors)
+/!*
 /!*What is A software Bug? *!/
 - Software bug: defect or problem in a computer program ,Basically ,any
-unexpested or unintended behavior of a computer program is a software bug.
+unexpected or unintended behavior of a computer program is a software bug.
 
 - Bugs are completely normal in software development!
 
@@ -110,4 +110,46 @@ unexpested or unintended behavior of a computer program is a software bug.
 - The debugging process
  IDENTIFY => FIND => FIX => PREVENT
 
-*/
+*!/*/
+
+//061 Debugging with the Console and Breakpoints
+
+const measureKelvin = function () {
+    const measurement = {
+        type: 'temp',
+        unit: 'celesis',
+
+        // C) FIX
+        // value: Number(prompt('please enter degrees celsius ')),
+        value: 10,
+    }
+    //print values in tables
+    // console.log(measurement.value); //print to console
+    // console.warn(measurement.value); //generate warn to console
+    // console.error(measurement.value); //generate error to console
+
+    const kelvin = measurement.value + 273;
+    return kelvin;
+}
+
+// A) IDENTIFY 
+console.log(measureKelvin());
+
+//USing Debugger
+const calcTempAmplitudeBug = function (temp1, temp2) {
+    const temps = temp1.concat(temp2)
+    let max = 0;
+    let min = 0;
+    for (let i = 0; i < temps.length; i++) {
+        if (typeof temps[i] !== 'number') continue; //ignore errors
+        if (temps[i] > max) max = temps[i];//get max value from array
+        if (temps[i] < min) min = temps[i];//get min value from array
+
+    }
+    console.log(`max = ${max} , min = ${min}`)
+    return max - min;
+};
+const amplitudeBug = calcTempAmplitudeBug([7, 4, 3], [50, 2, 1])
+// A) IDENTIFY
+console.log(amplitudeBug) //test function
+// debugger;
