@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5283680b-5bf0-4a08-aaca-9815d83fee81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/05 Developer Skills &amp; Editor Setup/Coding Challenge.js" afterDir="false" />
+    <list default="true" id="5283680b-5bf0-4a08-aaca-9815d83fee81" name="Default Changelist" comment="Solve Coding Challenge 1 05 Developer Skills &amp; Editor Setup">
+      <change afterPath="$PROJECT_DIR$/07 JavaScript in the Browser_ DOM and Events Fundamentals/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 JavaScript in the Browser_ DOM and Events Fundamentals/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 JavaScript in the Browser_ DOM and Events Fundamentals/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 JavaScript in the Browser_ DOM and Events Fundamentals/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 Developer Skills &amp; Editor Setup/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/05 Developer Skills &amp; Editor Setup/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +47,7 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
@@ -101,7 +105,7 @@
       <workItem from="1628964796798" duration="598000" />
       <workItem from="1629149012831" duration="4907000" />
       <workItem from="1629359722007" duration="1789000" />
-      <workItem from="1629383636307" duration="696000" />
+      <workItem from="1629383636307" duration="1508000" />
     </task>
     <task id="LOCAL-00001" summary="add folders , for first 3 part of course">
       <created>1625946570119</created>
@@ -341,7 +345,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629150940354</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Solve Coding Challenge 1 05 Developer Skills &amp; Editor Setup">
+      <created>1629384401052</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1629384401052</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,7 +363,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Create coding challenge file" />
     <MESSAGE value="Solve codding challenge 1 for fundamental Part 2" />
     <MESSAGE value="lecture 039 Introduction to Arrays my written code" />
     <MESSAGE value="lecture 040 Basic Array Operations (Methods) my written code" />
@@ -377,7 +387,8 @@
     <MESSAGE value="style of web page in external folder" />
     <MESSAGE value="lecture 060 Debugging (Fixing Errors) my written code,and notes." />
     <MESSAGE value="lecture 061 Debugging with the Console and Breakpoints my written code,and notes." />
-    <option name="LAST_COMMIT_MESSAGE" value="lecture 061 Debugging with the Console and Breakpoints my written code,and notes." />
+    <MESSAGE value="Solve Coding Challenge 1 05 Developer Skills &amp; Editor Setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve Coding Challenge 1 05 Developer Skills &amp; Editor Setup" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
