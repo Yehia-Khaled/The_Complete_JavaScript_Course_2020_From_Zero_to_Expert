@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5283680b-5bf0-4a08-aaca-9815d83fee81" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/05 Developer Skills &amp; Editor Setup/Coding Challenge.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 Developer Skills &amp; Editor Setup/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05 Developer Skills &amp; Editor Setup/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 Developer Skills &amp; Editor Setup/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/05 Developer Skills &amp; Editor Setup/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +66,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Education\Courses\Web Specialization\The Complete JavaScript Course 2020 From Zero to Expert!\05 Developer Skills &amp; Editor Setup" />
       <recent name="F:\Education\Courses\Web Specialization\The Complete JavaScript Course 2020 From Zero to Expert!\03 JavaScript Fundamentals – Part 2\" />
     </key>
   </component>
@@ -97,7 +99,9 @@
       <workItem from="1628371200392" duration="7466000" />
       <workItem from="1628771547733" duration="12661000" />
       <workItem from="1628964796798" duration="598000" />
-      <workItem from="1629149012831" duration="1806000" />
+      <workItem from="1629149012831" duration="4907000" />
+      <workItem from="1629359722007" duration="1789000" />
+      <workItem from="1629383636307" duration="696000" />
     </task>
     <task id="LOCAL-00001" summary="add folders , for first 3 part of course">
       <created>1625946570119</created>
@@ -330,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628883759079</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="lecture 061 Debugging with the Console and Breakpoints my written code,and notes.">
+      <created>1629150940354</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1629150940354</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,7 +352,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="lecture 036 Functions Calling Other Functions my written code" />
     <MESSAGE value="Create coding challenge file" />
     <MESSAGE value="Solve codding challenge 1 for fundamental Part 2" />
     <MESSAGE value="lecture 039 Introduction to Arrays my written code" />
@@ -366,7 +376,8 @@
     <MESSAGE value="lecture 059 Using Google, StackOverflow and MDN my written code,and notes." />
     <MESSAGE value="style of web page in external folder" />
     <MESSAGE value="lecture 060 Debugging (Fixing Errors) my written code,and notes." />
-    <option name="LAST_COMMIT_MESSAGE" value="lecture 060 Debugging (Fixing Errors) my written code,and notes." />
+    <MESSAGE value="lecture 061 Debugging with the Console and Breakpoints my written code,and notes." />
+    <option name="LAST_COMMIT_MESSAGE" value="lecture 061 Debugging with the Console and Breakpoints my written code,and notes." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
