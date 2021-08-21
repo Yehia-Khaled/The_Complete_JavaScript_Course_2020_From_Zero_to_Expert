@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5283680b-5bf0-4a08-aaca-9815d83fee81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/07 JavaScript in the Browser_ DOM and Events Fundamentals/Coding Challenge.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 JavaScript in the Browser_ DOM and Events Fundamentals/.prettierrc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07 JavaScript in the Browser_ DOM and Events Fundamentals/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/07 JavaScript in the Browser_ DOM and Events Fundamentals/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07 JavaScript in the Browser_ DOM and Events Fundamentals/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/07 JavaScript in the Browser_ DOM and Events Fundamentals/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07 JavaScript in the Browser_ DOM and Events Fundamentals/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/07 JavaScript in the Browser_ DOM and Events Fundamentals/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +103,7 @@
       <workItem from="1629149012831" duration="4907000" />
       <workItem from="1629359722007" duration="1789000" />
       <workItem from="1629383636307" duration="1852000" />
-      <workItem from="1629580358528" duration="373000" />
+      <workItem from="1629580358528" duration="1388000" />
     </task>
     <task id="LOCAL-00001" summary="add folders , for first 3 part of course">
       <created>1625946570119</created>
@@ -358,7 +357,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629385304993</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="starter code for 07 JavaScript in the Browser_ DOM and Events Fundamentals">
+      <created>1629580774366</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1629580774366</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
