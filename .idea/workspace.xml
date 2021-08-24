@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5283680b-5bf0-4a08-aaca-9815d83fee81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/07 JavaScript in the Browser_ DOM and Events Fundamentals/.prettierrc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07 JavaScript in the Browser_ DOM and Events Fundamentals/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/07 JavaScript in the Browser_ DOM and Events Fundamentals/script.js" afterDir="false" />
     </list>
@@ -103,7 +102,8 @@
       <workItem from="1629149012831" duration="4907000" />
       <workItem from="1629359722007" duration="1789000" />
       <workItem from="1629383636307" duration="1852000" />
-      <workItem from="1629580358528" duration="1388000" />
+      <workItem from="1629580358528" duration="2065000" />
+      <workItem from="1629837349023" duration="917000" />
     </task>
     <task id="LOCAL-00001" summary="add folders , for first 3 part of course">
       <created>1625946570119</created>
@@ -364,7 +364,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629580774366</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="lecture  070 PROJECT #1_ Guess My Number! my written code,and notes.">
+      <created>1629582049338</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1629582049338</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -375,7 +382,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="lecture 039 Introduction to Arrays my written code" />
     <MESSAGE value="lecture 040 Basic Array Operations (Methods) my written code" />
     <MESSAGE value="Solve codding challenge 2 for fundamental Part 2" />
     <MESSAGE value="lecture 042 Introduction to Objects my written code" />
@@ -400,7 +406,8 @@
     <MESSAGE value="lecture 061 Debugging with the Console and Breakpoints my written code,and notes." />
     <MESSAGE value="Solve Coding Challenge 1 05 Developer Skills &amp; Editor Setup" />
     <MESSAGE value="starter code for 07 JavaScript in the Browser_ DOM and Events Fundamentals" />
-    <option name="LAST_COMMIT_MESSAGE" value="starter code for 07 JavaScript in the Browser_ DOM and Events Fundamentals" />
+    <MESSAGE value="lecture  070 PROJECT #1_ Guess My Number! my written code,and notes." />
+    <option name="LAST_COMMIT_MESSAGE" value="lecture  070 PROJECT #1_ Guess My Number! my written code,and notes." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
