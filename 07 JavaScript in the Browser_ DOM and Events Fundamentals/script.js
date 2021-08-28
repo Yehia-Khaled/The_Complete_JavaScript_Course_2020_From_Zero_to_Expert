@@ -3,6 +3,7 @@
 //070 PROJECT #1_ Guess My Number!
 console.log(document.querySelector('.message').textContent);*/
 
+/*
 //071 What's the DOM and DOM Manipulation
 
 //DOM Methods and properties for DOM manipulation NOT PART OF JS
@@ -11,3 +12,17 @@ console.log(document.querySelector('.message').textContent);*/
 // Web APIs: are like libraries that browser implement  and that we can access from our JavaScript code.
 //API stands for Application Programming Interface.
 //Web APIs are basically libraries that are also written in javaScript and that are ,automatically available for us to use.
+*/
+/*
+
+//072 Selecting and Manipulating Elements
+// document.querySelector('.message').textContent = 'Correct Number! 🎉🎉';
+//
+// document.querySelector('.number').textContent = 13;
+// document.querySelector('.score').textContent = 25;
+
+//to get the actual value we need to use value property
+console.log(document.querySelector('.guess').value);
+document.querySelector('.guess').value = 15;
+// console.log(document.querySelector('.guess').value); to see new value assigned
+*/

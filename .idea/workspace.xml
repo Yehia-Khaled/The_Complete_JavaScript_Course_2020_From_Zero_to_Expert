@@ -103,7 +103,8 @@
       <workItem from="1629359722007" duration="1789000" />
       <workItem from="1629383636307" duration="1852000" />
       <workItem from="1629580358528" duration="2065000" />
-      <workItem from="1629837349023" duration="917000" />
+      <workItem from="1629837349023" duration="2427000" />
+      <workItem from="1630189762150" duration="621000" />
     </task>
     <task id="LOCAL-00001" summary="add folders , for first 3 part of course">
       <created>1625946570119</created>
@@ -371,7 +372,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629582049338</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="lecture  071 What's the DOM and DOM Manipulation my written code,and notes.">
+      <created>1629839090154</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1629839090154</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -381,8 +389,8 @@
     <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="lecture 040 Basic Array Operations (Methods) my written code" />
     <MESSAGE value="Solve codding challenge 2 for fundamental Part 2" />
     <MESSAGE value="lecture 042 Introduction to Objects my written code" />
     <MESSAGE value="lecture 043 Dot vs. Bracket Notation my written code,and notes." />
@@ -407,7 +415,8 @@
     <MESSAGE value="Solve Coding Challenge 1 05 Developer Skills &amp; Editor Setup" />
     <MESSAGE value="starter code for 07 JavaScript in the Browser_ DOM and Events Fundamentals" />
     <MESSAGE value="lecture  070 PROJECT #1_ Guess My Number! my written code,and notes." />
-    <option name="LAST_COMMIT_MESSAGE" value="lecture  070 PROJECT #1_ Guess My Number! my written code,and notes." />
+    <MESSAGE value="lecture  071 What's the DOM and DOM Manipulation my written code,and notes." />
+    <option name="LAST_COMMIT_MESSAGE" value="lecture  071 What's the DOM and DOM Manipulation my written code,and notes." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
