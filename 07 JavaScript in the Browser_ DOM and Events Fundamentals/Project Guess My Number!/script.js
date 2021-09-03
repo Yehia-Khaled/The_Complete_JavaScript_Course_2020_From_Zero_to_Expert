@@ -26,3 +26,13 @@ console.log(document.querySelector('.guess').value);
 document.querySelector('.guess').value = 15;
 // console.log(document.querySelector('.guess').value); to see new value assigned
 */
+
+//073 Handling Click Events
+// Event: is Something that happens on the page.
+//6:24
+document.querySelector('.check').addEventListener('click', function () {
+    //first argument is the name of the event that we are listening for
+    //second argument we have function value
+    console.log(document.querySelector('.guess').value)
+    document.querySelector('.message').textContent = 'Correct Number! 🎉🎉';
+})
