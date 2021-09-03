@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5283680b-5bf0-4a08-aaca-9815d83fee81" name="Default Changelist" comment="lecture  072 Selecting and Manipulating Elements my written code,and notes.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07 JavaScript in the Browser_ DOM and Events Fundamentals/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07 JavaScript in the Browser_ DOM and Events Fundamentals/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07 JavaScript in the Browser_ DOM and Events Fundamentals/style.css" beforeDir="false" />
+    <list default="true" id="5283680b-5bf0-4a08-aaca-9815d83fee81" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +107,7 @@
       <workItem from="1630191849258" duration="2103000" />
       <workItem from="1630279807460" duration="641000" />
       <workItem from="1630280633266" duration="616000" />
-      <workItem from="1630364004920" duration="4915000" />
+      <workItem from="1630364004920" duration="5217000" />
     </task>
     <task id="LOCAL-00001" summary="add folders , for first 3 part of course">
       <created>1625946570119</created>
@@ -393,7 +389,21 @@
       <option name="project" value="LOCAL" />
       <updated>1630191510223</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Refactor project 1 Guess My Number!">
+      <created>1630709254899</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1630709254899</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Add project 1 to list project">
+      <created>1630709342384</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1630709342384</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -405,8 +415,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="lecture 042 Introduction to Objects my written code" />
-    <MESSAGE value="lecture 043 Dot vs. Bracket Notation my written code,and notes." />
     <MESSAGE value="resources of challenges and assignments" />
     <MESSAGE value="lecture 044 Object Methods my written code,and notes." />
     <MESSAGE value="Solve codding challenge 3 for fundamental Part 2" />
@@ -430,7 +438,9 @@
     <MESSAGE value="lecture  070 PROJECT #1_ Guess My Number! my written code,and notes." />
     <MESSAGE value="lecture  071 What's the DOM and DOM Manipulation my written code,and notes." />
     <MESSAGE value="lecture  072 Selecting and Manipulating Elements my written code,and notes." />
-    <option name="LAST_COMMIT_MESSAGE" value="lecture  072 Selecting and Manipulating Elements my written code,and notes." />
+    <MESSAGE value="Refactor project 1 Guess My Number!" />
+    <MESSAGE value="Add project 1 to list project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add project 1 to list project" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
