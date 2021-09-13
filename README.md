@@ -17,4 +17,4 @@
 ### Projects
 
 * 07 JavaScript in the Browser_ DOM and Events Fundamentals
-    * [Guess My Number!](https://github.com/Yehia-Khaled/Project_Guess_My_Number
+  * [Guess My Number!](https://github.com/Yehia-Khaled/Project_Guess_My_Number/) 
