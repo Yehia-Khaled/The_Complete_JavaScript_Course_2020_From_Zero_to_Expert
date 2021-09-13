@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5283680b-5bf0-4a08-aaca-9815d83fee81" name="Default Changelist" comment="remove project files from this repo">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07 JavaScript in the Browser_ DOM and Events Fundamentals/Project Guess My Number!/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/07 JavaScript in the Browser_ DOM and Events Fundamentals/Project Guess My Number!/script.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/07 JavaScript in the Browser_ DOM and Events Fundamentals/Project Guess My Number!/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +110,7 @@
       <workItem from="1630279807460" duration="641000" />
       <workItem from="1630280633266" duration="616000" />
       <workItem from="1630364004920" duration="7897000" />
-      <workItem from="1631535290938" duration="1497000" />
+      <workItem from="1631535290938" duration="1807000" />
     </task>
     <task id="LOCAL-00001" summary="add folders , for first 3 part of course">
       <created>1625946570119</created>
@@ -423,7 +420,21 @@
       <option name="project" value="LOCAL" />
       <updated>1631535851221</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="update readme file">
+      <created>1631536895900</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1631536895900</updated>
+    </task>
+    <task id="LOCAL-00046" summary="remove project files from this repo">
+      <created>1631537031725</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1631537031725</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,7 +446,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="lecture 044 Object Methods my written code,and notes." />
     <MESSAGE value="Solve codding challenge 3 for fundamental Part 2" />
     <MESSAGE value="lecture 046 Iteration_ The for Loop my written code,and notes." />
     <MESSAGE value="create Readme File" />
@@ -459,6 +469,7 @@
     <MESSAGE value="lecture  072 Selecting and Manipulating Elements my written code,and notes." />
     <MESSAGE value="Refactor project 1 Guess My Number!" />
     <MESSAGE value="Add project 1 to list project" />
+    <MESSAGE value="update readme file" />
     <MESSAGE value="remove project files from this repo" />
     <option name="LAST_COMMIT_MESSAGE" value="remove project files from this repo" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
